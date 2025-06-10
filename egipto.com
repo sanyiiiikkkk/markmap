@@ -1,0 +1,95 @@
+# Civilizaciones Fluviales de la Antigüedad
+
+## Mesopotamia 🌄
+- "Tierra entre ríos"
+- 📍 Geografía
+  - Ubicación: Entre los ríos Tigris y Éufrates
+  - Actual Irak
+  - Inundaciones irregulares → construcción de canales
+  - Ejemplo: Llanura de Sumer
+- 🏛️ Organización política
+  - Ciudades-estado independientes
+    - Ur, Uruk, Lagash, Babilonia
+  - Reyes-sacerdotes (Lugal o Ensi)
+  - Ejemplo: Hammurabi en Babilonia
+- 👥 Sociedad
+  - Rey → máxima autoridad religiosa y militar
+  - Sacerdotes y nobles → control del templo y tierras
+  - Comerciantes y artesanos → mercados locales
+  - Campesinos → base agrícola
+  - Esclavos → prisioneros de guerra
+- ⛪ Religión
+  - Politeísta
+    - Dioses: Anu (cielo), Enlil (aire), Ishtar (amor y guerra)
+  - Visión pesimista del más allá
+  - Zigurats como templos religiosos
+    - Ejemplo: Zigurat de Ur
+- ✍️ Escritura
+  - Cuneiforme
+    - En tablillas de arcilla con cuñas
+  - Usada en: contabilidad, leyes, literatura
+    - Ejemplo: *Poema de Gilgamesh*
+- 💰 Economía
+  - Agricultura: trigo, cebada, dátiles
+  - Comercio: metales, tejidos, cerámica
+  - Trueque como sistema económico
+  - Ejemplo: comercio con Anatolia y el valle del Indo
+- 🛠️ Aportes culturales
+  - Código de Hammurabi → leyes escritas
+  - Invención de la rueda
+  - Matemáticas: sistema sexagesimal
+  - Astronomía: calendario lunar
+
+---
+
+## Egipto 🏜️
+- "Don del Nilo"
+- 📍 Geografía
+  - Río Nilo → fuente de vida y fertilidad
+  - Inundaciones predecibles → calendario agrícola
+  - Ubicación: Noreste de África
+  - Ejemplo: Valle del Nilo
+- 🏛️ Organización política
+  - Monarquía teocrática
+    - Faraón = dios viviente
+  - Estado centralizado
+  - Ejemplo: Ramsés II, Tutankamón
+- 👥 Sociedad
+  - Faraón → autoridad suprema
+  - Nobles y sacerdotes → ayudaban a gobernar
+  - Escribas → registraban la historia y economía
+  - Campesinos y artesanos → pirámides, agricultura
+  - Esclavos → mano de obra en obras reales
+- ⛪ Religión
+  - Politeísta
+    - Dioses: Ra (sol), Osiris (muerte), Isis (maternidad)
+  - Visión optimista del más allá
+  - Prácticas funerarias elaboradas
+    - Ejemplo: Libro de los Muertos
+- ✍️ Escritura
+  - Jeroglífica
+    - En papiros, templos, tumbas
+  - Escritura sagrada → usada por escribas
+  - Ejemplo: Piedra de Rosetta
+- 💰 Economía
+  - Agricultura: trigo, lino, cebada
+  - Comercio con Nubia, Fenicia y Mesopotamia
+  - Uso del papiro como producto comercial
+- 🛠️ Aportes culturales
+  - Arquitectura: pirámides de Giza
+  - Medicina: tratamientos dentales, cirugías simples
+  - Matemáticas: uso de geometría
+  - Calendario solar → 365 días
+
+---
+
+## Comparación 🔍
+- Similitudes
+  - Ambas nacen cerca de ríos
+  - Religión politeísta
+  - Sociedad jerárquica
+  - Avances en escritura, arquitectura, astronomía
+- Diferencias
+  - Mesopotamia → ciudades independientes; Egipto → unificado
+  - Visión del más allá: negativa (Mesopotamia) vs. positiva (Egipto)
+  - Escritura: cuneiforme vs. jeroglífica
